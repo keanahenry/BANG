@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+
+
+https://dspncdn.com/a1/media/692x/11/90/bb/1190bb708dbfabe6d27a2a54ab6539d2.jpg
+
+
 <html>
 
 
@@ -87,8 +93,6 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 
 
 
-
-
 <div class="w3-top w3-hide-large w3-hide-medium" id="myNavbar">
 
 
@@ -150,7 +154,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 
     
 <p>Professional Dog Petter.
- ((Proabably a hitman? Who knows anymore.))</p>
+ ((Proabably a hitman))</p>
 
 
 
@@ -212,10 +216,11 @@ I wish I had people repellent because I cant stand pettiness or drama. Be unique
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6l6vqPUM_FE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+ <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/252405463/?autostart=false" frameborder="0" allowfullscreen></iframe>
     
     <div class="w3-row w3-center w3-padding-16 w3-section w3-light-grey">
 
-
+ 
       
 <div class="w3-quarter w3-section">
 
@@ -371,7 +376,7 @@ I wish I had people repellent because I cant stand pettiness or drama. Be unique
 
         <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.15752-9/40309758_2095429997387862_581177622826844160_n.jpg?_nc_cat=0&oh=3ad793838dcfd3bb35c66711124aa6aa&oe=5BFB6124" style="width:100%">
 
-        <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.15752-9/40161784_249369235764784_7501531549242753024_n.jpg?_nc_cat=0&oh=90424177494d4a004ed427925b7d4148&oe=5C329029" style="width:100%">
+        <img src="https://dspncdn.com/a1/media/692x/11/90/bb/1190bb708dbfabe6d27a2a54ab6539d2.jpg">
 
 
       
